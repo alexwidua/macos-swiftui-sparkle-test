@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Sparkle-Test 2.0</title>
+        <title>Sparkle-Test</title>
         <item>
-            <title>2.0</title>
-            <pubDate>Wed, 10 Jan 2024 12:33:51 +0100</pubDate>
+            <title>1.0</title>
+            <pubDate>Wed, 10 Jan 2024 12:52:50 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/alexwidua/macos-swiftui-sparkle-test/releases/download/2.0/Sparkle-Test-2.0.dmg" length="857588" type="application/octet-stream" sparkle:edSignature="CUzSpMeLDCcb4r8plqSTjt4yBZ2bvgOE2PWqW5KM9NM2mHOlLrItHYsV3osLLz7AH9hxRBTqimuKACFcbICwDQ=="/>
+            <enclosure url="https://github.com/alexwidua/macos-swiftui-sparkle-test/releases/download/2.0/Sparkle-Test-2.0.dmg" length="857625" type="application/octet-stream" sparkle:edSignature="icGm3wqm1fdNduAZlu5atl25WUqIVM2NCFbA982Rt+33yk0WYS/6TMwWpnqm4bXVqn9aHsAApRbR6+yFHiJMCw=="/>
         </item>
     </channel>
 </rss>
