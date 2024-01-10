@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/alexwidua/macos-swiftui-sparkle-test/releases/download/Prod/Sparkle-Test.dmg" length="857588" type="application/octet-stream" sparkle:edSignature="CUzSpMeLDCcb4r8plqSTjt4yBZ2bvgOE2PWqW5KM9NM2mHOlLrItHYsV3osLLz7AH9hxRBTqimuKACFcbICwDQ=="/>
+            <enclosure url="https://github.com/alexwidua/macos-swiftui-sparkle-test/releases/download/2.0/Sparkle-Test-2.0.dmg" length="857588" type="application/octet-stream" sparkle:edSignature="CUzSpMeLDCcb4r8plqSTjt4yBZ2bvgOE2PWqW5KM9NM2mHOlLrItHYsV3osLLz7AH9hxRBTqimuKACFcbICwDQ=="/>
         </item>
     </channel>
 </rss>
